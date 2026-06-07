@@ -286,7 +286,8 @@ The following routes were tested using Postman.
 
 ### Register User
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 46 43 PM" src="https://github.com/user-attachments/assets/b20e80e6-d036-4d74-bb79-075b75f4be61" />
+
 
 ### Login User
 
