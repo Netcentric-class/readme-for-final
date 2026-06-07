@@ -291,35 +291,47 @@ The following routes were tested using Postman.
 
 ### Login User
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 48 21 PM" src="https://github.com/user-attachments/assets/fdd62826-535c-4ab7-8e42-02a865806464" />
+
 
 ### Change Password
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 49 20 PM" src="https://github.com/user-attachments/assets/acb9a24f-45ae-42a5-8b7b-80539193aa45" />
+
+
 
 ---
+
+## Create admin Token
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 53 10 PM" src="https://github.com/user-attachments/assets/125135d2-a867-4bc5-ab9a-0cedf9c7e21b" />
+
 
 ## Books
 
 ### Get All Books
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 53 55 PM" src="https://github.com/user-attachments/assets/5f3ccedc-d1a7-468e-a181-d95c9a5d779a" />
+
 
 ### Filter Books
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 55 03 PM" src="https://github.com/user-attachments/assets/153f3daf-176d-43fc-9867-6c968e3f12f1" />
+
 
 ### Add Book
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 56 07 PM" src="https://github.com/user-attachments/assets/684607cc-1474-4183-8f45-09b6237fa833" />
+
 
 ### Modify Book
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 56 52 PM" src="https://github.com/user-attachments/assets/6d24c6cf-211e-41b8-85d8-0f5fa3d576fd" />
+
 
 ### Delete Book
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 57 33 PM" src="https://github.com/user-attachments/assets/faa2d8b9-b8c3-407b-ac17-ecb3dc792f3a" />
+
 
 ---
 
@@ -327,15 +339,13 @@ INSERT SCREENSHOT HERE
 
 ### Borrow Book
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 2 59 48 PM" src="https://github.com/user-attachments/assets/4bb9cf51-0e82-4259-922c-4d6fdced7808" />
+
 
 ### Return Book
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 3 01 50 PM" src="https://github.com/user-attachments/assets/7930c45d-3616-4d49-b81c-d3477cfdbfba" />
 
-### View My Borrowed Books
-
-INSERT SCREENSHOT HERE
 
 ---
 
@@ -343,11 +353,13 @@ INSERT SCREENSHOT HERE
 
 ### Borrowed Books Report
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 3 03 35 PM" src="https://github.com/user-attachments/assets/6fbe0cae-287a-441f-a558-b862ba30340c" />
+
 
 ### Borrowers Report
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 3 04 00 PM" src="https://github.com/user-attachments/assets/0dc1ab34-8ec6-49bb-b0b3-c5f8cf1aa857" />
+
 
 ---
 
@@ -355,11 +367,14 @@ INSERT SCREENSHOT HERE
 
 ### Missing Token
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 3 05 22 PM" src="https://github.com/user-attachments/assets/30e93fec-2ea7-4976-85ad-298fa6110275" />
+
+
 
 ### Invalid Token
 
-INSERT SCREENSHOT HERE
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 3 05 08 PM" src="https://github.com/user-attachments/assets/3984e98d-649f-48e2-91f9-b7a117a6ea48" />
+
 
 ---
 
